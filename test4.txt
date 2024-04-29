@@ -1,2 +1,1 @@
-I shall learn CI/CD pipeline.
-I shall learn automation testing.
+I shall learn git hub functionality and flow.

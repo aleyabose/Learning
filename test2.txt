@@ -1,2 +1,2 @@
 I shall learn CI/CD pipeline.
-I shall learn automation testing.
+
